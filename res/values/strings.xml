@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TransparentLayout</string>
+    <string name="value00FFFFFF">#00FFFFF</string>
+    <string name="value11FFFFFF">#11FFFFF</string>
+    <string name="value22FFFFFF">#22FFFFF</string>
+    <string name="value33FFFFFF">#33FFFFF</string>
+    <string name="value44FFFFFF">#44FFFFF</string>
+    <string name="value55FFFFFF">#55FFFFF</string>
+    <string name="value66FFFFFF">#66FFFFF</string>
+    <string name="value77FFFFFF">#77FFFFF</string>
+    <string name="value88FFFFFF">#88FFFFF</string>
+    <string name="info">A simple app that plays with transparent color values/shades.</string>
+</resources>
