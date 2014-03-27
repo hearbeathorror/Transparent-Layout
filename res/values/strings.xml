@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">TransparentLayout</string>
-    <string name="value00FFFFFF">#00FFFFF</string>
-    <string name="value11FFFFFF">#11FFFFF</string>
-    <string name="value22FFFFFF">#22FFFFF</string>
-    <string name="value33FFFFFF">#33FFFFF</string>
-    <string name="value44FFFFFF">#44FFFFF</string>
-    <string name="value55FFFFFF">#55FFFFF</string>
-    <string name="value66FFFFFF">#66FFFFF</string>
-    <string name="value77FFFFFF">#77FFFFF</string>
-    <string name="value88FFFFFF">#88FFFFF</string>
+    <string name="value00FFFFFF">#00FFFFFF</string>
+    <string name="value11FFFFFF">#11FFFFFF</string>
+    <string name="value22FFFFFF">#22FFFFFF</string>
+    <string name="value33FFFFFF">#33FFFFFF</string>
+    <string name="value44FFFFFF">#44FFFFFF</string>
+    <string name="value55FFFFFF">#55FFFFFF</string>
+    <string name="value66FFFFFF">#66FFFFFF</string>
+    <string name="value77FFFFFF">#77FFFFFF</string>
+    <string name="value88FFFFFF">#88FFFFFF</string>
+    <string name="value88000000">#88000000</string>
+    <string name="value77000000">#77000000</string>
+    <string name="value66000000">#66000000</string>
+    <string name="value55000000">#55000000</string>
+    <string name="value44000000">#44000000</string>
+    <string name="value33000000">#33000000</string>
+    <string name="value22000000">#22000000</string>
+    <string name="value11000000">#11000000</string>
+    <string name="value00000000">#00000000</string>
     <string name="info">A simple app that plays with transparent color values/shades.</string>
 </resources>
